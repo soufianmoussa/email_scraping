@@ -1,6 +1,6 @@
 # Email Scraping with Python
 
-This Python project aims to demonstrate how to scrape emails from a website using Python libraries such as `requests` and `BeautifulSoup`. This can be useful for various purposes, such as building email lists for marketing or conducting research.
+This Python project aims to demonstrate how to scrape emails from a website using Python libraries such as `requests`. This can be useful for various purposes, such as building email lists for marketing or conducting research.
 
 ## Getting Started
 
